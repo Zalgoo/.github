@@ -1,6 +1,6 @@
-# Contributing to the %Repo Name% Project
+# Contributing to this Project
 
-Thank you for your interest in contributing to **%Repo Name%**. This document outlines the guidelines and processes for contributing to this project. We appreciate your help in making this project better.
+Thank you for your interest in contributing to this project. This document outlines the guidelines and processes for contributing to this project. We appreciate your help in making this project better.
 
 ## How to Contribute
 
