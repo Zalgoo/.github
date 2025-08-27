@@ -14,3 +14,7 @@
 - %Configuration Guide% #1
   - %Configuration Guide #1% #2
 - %Configuration Guide% #2
+
+
+### Visuals
+![Alt Text~](https://placehold.co/600x400/ADD8E6/303030?text=%Repo%+Visuals)
