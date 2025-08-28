@@ -1,8 +1,8 @@
-# About Zalgo
-> Zalgo is an organization dedicated to creating diverse and interesting software projects, ranging from simple desktop utilities to web-based games. The organization's current focus is on open-source development and experimentation with different technologies.
+# About Z̴̻̈́͑̆a̴̡̭̗̋͘l̵̗̥͔̠̤̒̅͜g̶̗̣̭̪̃̓͘͘ǒ̶̰̓
+> Z̴̩̾a̸͖͗l̵͕͋g̷̝͊o̸̖̊ is an organization dedicated to creating diverse and interesting software projects, ranging from simple desktop utilities to web-based games. The organization's current focus is on open-source development and experimentation with different technologies.
 
 - **Website:** [zeqqe.dev](https://zeqqe.dev)
-- **About the Developer:** Zalgo is solely operated by [Zeqqqe](https://github.com/zeqqqe)
+- **About the Developer:** Z̸͎͚̗͓͖̝̹͈̄͆̐̔͂̏̎̚ä̵̩̰́͐́̾̕l̴̛̹̄͘g̶̩̻̮̼͚͕̅̔̓̐̇̕͜ờ̷͍͍̺͍͖̩͛̚ is solely operated by [Zeqqqe](https://github.com/zeqqqe)
 
 ---
 
