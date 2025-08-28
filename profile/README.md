@@ -8,7 +8,7 @@
 
 ### Featured Projects
 
-#### [Zoidberg App](https://github.com/zeqqqe/Zoidberg)
+#### [Zoidberg App](https://github.com/Zalgoo/Zoidberg)
 A fun, customizable desktop application that displays a Zoidberg image with dynamic text and backgrounds.
 
 - **Key Features:**
@@ -25,7 +25,7 @@ A fun, customizable desktop application that displays a Zoidberg image with dyna
 
 ---
 
-#### [meth-clicker](https://github.com/Zeqqqe/meth-clicker)
+#### [methClicker.html](https://github.com/Zalgoo/methClicker.html)
 A simple and engaging HTML clicker game.
 
 - **How to Play:**
