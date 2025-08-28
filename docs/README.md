@@ -32,5 +32,5 @@
 
 <details>
   <summary>Misc Info</summary>
-
-![Star History Chart](https://api.star-history.com/svg?repos=Zwarb&type=Date)
+>
+> ![Star History Chart](https://api.star-history.com/svg?repos=Zalgoo&type=Date)
