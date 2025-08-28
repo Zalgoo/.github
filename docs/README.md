@@ -33,4 +33,4 @@
 <details>
   <summary>Misc Info</summary>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Zwarb&type=Date)](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Zwarb&type=Date)
