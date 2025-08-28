@@ -1,8 +1,8 @@
-# About Zwarb
-> Zwarb is an organization dedicated to creating diverse and interesting software projects, ranging from simple desktop utilities to web-based games. The organization's current focus is on open-source development and experimentation with different technologies.
+# About Zalgo
+> Zalgo is an organization dedicated to creating diverse and interesting software projects, ranging from simple desktop utilities to web-based games. The organization's current focus is on open-source development and experimentation with different technologies.
 
 - **Website:** [zeqqe.dev](https://zeqqe.dev)
-- **About the Developer:** Zwarb is solely operated by [Zeqqqe](https://github.com/zeqqqe)
+- **About the Developer:** Zalgo is solely operated by [Zeqqqe](https://github.com/zeqqqe)
 
 ---
 
