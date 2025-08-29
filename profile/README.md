@@ -35,12 +35,3 @@ A simple and engaging HTML clicker game.
 - **Assets:** The game features assets like a Breaking Bad intro soundtrack and a custom sound effect.
 
 ---
-
-#### Top Used Languages
-<a href="https://zeqqe.dev">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zeqqqe&show_icons=true&theme=transparent&layout=pie" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zeqqqe&show_icons=true&theme=buefy&layout=pie" />
-    <img alt="Star History Chart" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeqqqe&show_icons=true&theme=buefy" />
-  </picture>
-</a>
